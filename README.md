@@ -74,9 +74,3 @@ Las probabilidades de salir cada grupo de cartas al aplicar el comando set.seed(
 Por lo que el grupo de cartas que tiene mas probabilidades de salir son las bajas con un 47,62%.
 
 
-
-
-
-
-
-4.-
