@@ -28,7 +28,7 @@ En cambio si se ejecuta el comando "ejemplos = sample(c("positivo", "negativo", 
 
 Por ejemplo:
 
-**negativo:4, neutro:1, positivo:1**
+**negativo:4, neutro:1, positivo:5**
 
 
 3.- "Asuma que los valores "positivo", "negativo" y "neutros" generados a partir de
@@ -60,8 +60,8 @@ cartas"
 Se asume que el mazo contiene 52 cartas, y ya se han descartado 31 de ellas, queda un total de 21 cartas, se utiliza el comando sample
 agrupando las cartas en altas, bajas y medianas. Con las siguientes probabilidades:
 
-**altas: 9(37,5%), bajas: 2(25%), medianas: 9(37,5%)**
-Obteniendo un total de: 0 puntos finales.
+**altas: 9(42,86%), bajas: 3(14,28%), medianas: 9(42,86%)**
+Obteniendo un total de: -6 puntos finales.
 
 
 5.- "Si en el ejercicio anterior utilizamos la función set.seed. ¿Qué grupo de cartas tiene más
